@@ -11,9 +11,9 @@ cpu:1GHz
 ```
 
 #用量信息
-* 计算资源：```一般```
-* 网络资源：```良好```
-* 存储用量：```良好```
+* CPU Time：```30%```
+* Web I/O：```5%```
+* Storage：```35%```
 
 #运行或托管的服务
 * ```Project β```
@@ -27,6 +27,7 @@ cpu:1GHz
 * ```PyFetch dev```
 * ```sinaApiBot Stock api (crontab)```
 * ```用户和组服务2015```
+* ```PyFetch```
 
 #托管资源
 欢迎联系@DGideas托管您的资源
