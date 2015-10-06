@@ -11,9 +11,9 @@ cpu:1GHz
 ```
 
 #用量信息
-* CPU Time：```30%```
-* Web I/O：```5%```
-* Storage：```35%```
+* CPU Time：```5%```
+* Web I/O：```3%```
+* Storage：```32%```
 
 #运行或托管的服务
 * ```Project β```
