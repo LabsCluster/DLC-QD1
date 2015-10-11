@@ -16,6 +16,8 @@ cpu:1GHz
 * Storage：```32%```
 
 #运行或托管的服务
+* http://121.42.141.42/putty.exe
+* http://121.42.141.42/winscp.exe
 * ```Project β```
 * ```The legend of Yuxiaomiao```
 * ```DGStorage dev```
