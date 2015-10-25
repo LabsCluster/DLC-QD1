@@ -1,5 +1,5 @@
 # DLC-QD1
-DGideas 实验室集群(中国青岛服务器1)
+DGideas 实验室集群(中国青岛服务器#1)
 
 http://121.42.141.42/status
 
@@ -11,11 +11,12 @@ cpu:1GHz
 ```
 
 #用量信息
-* CPU Time：```5%```
-* Web I/O：```3%```
-* Storage：```32%```
+* CPU Time：```7%```
+* Web I/O：```2%```
+* Storage：```42%```
 
 #运行或托管的服务
+* 镜像服务
 * http://121.42.141.42/putty.exe
 * http://121.42.141.42/winscp.exe
 * ```Project β```
@@ -29,7 +30,4 @@ cpu:1GHz
 * ```PyFetch dev```
 * ```sinaApiBot Stock api (crontab)```
 * ```用户和组服务2015```
-* ```PyFetch```
 
-#托管资源
-欢迎联系@DGideas托管您的资源
