@@ -1,9 +1,12 @@
 username,realname
+root,系统管理员账户
+dev,保留账户
+admin,保留账户
+administrator,保留账户
 dgideas,王万霖
 egon,王研
 jackjoylin,林家嘉
 cccccc,刘畅
-dev,王万霖
 humengqi,胡梦琪
 liangshidi,梁诗笛
 pr0phet,邱世章
@@ -18,7 +21,6 @@ chenjibo,陈季博
 handsome,丘梦迪
 laomaifu,增嘉宇
 noodles,杨琨
-root,王万霖
 taoge,曾海涛
 wangtaojian,汪陶建
 wjt400,王佳腾
