@@ -1,19 +1,19 @@
-# DLC-QD1
-DGideas 实验室集群(中国青岛服务器#1)
+# DGideas Labs Cluster - QD1
+DGideas 实验室集群 - 中国青岛#1  服务器
 
 http://121.42.141.42/status
 
 #基本信息
 ```
-i-28z2o8xtw
+i-28z2o8xtw(DLC-QD1)
 mem:512MB
 cpu:1GHz
 ```
 
 #用量信息
-* CPU Time：```7%```
-* Web I/O：```2%```
-* Storage：```42%```
+* CPU Time：```8%```
+* Web I/O：```3%```
+* Storage：```44%```
 
 #运行或托管的服务
 * 镜像服务
