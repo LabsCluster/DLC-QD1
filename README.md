@@ -10,9 +10,15 @@ mem:512MB
 cpu:1GHz
 ```
 
+#归属信息
+* DGDATA
+* Boxfish Education
+* Beijing Institute of Petrochemical Technology
+* DGideas Computing Center
+
 #用量信息
-* CPU Time：```8%```
-* Web I/O：```3%```
+* CPU Time(average 7)：```8%```
+* Web I/O(average 7)：```3%```
 * Storage：```44%```
 
 #运行或托管的服务
