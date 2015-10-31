@@ -17,9 +17,9 @@ cpu:1GHz
 * DGideas Computing Center
 
 #用量信息
-* CPU Time(average 7)：```8%```
-* Web I/O(average 7)：```3%```
-* Storage：```44%```
+* CPU Time(average 7)：```5%```
+* Web I/O(average 7)：```4%```
+* Storage：```40%```
 
 #运行或托管的服务
 * 镜像服务
