@@ -16,10 +16,9 @@ cpu:1GHz
 * Beijing Institute of Petrochemical Technology
 * DGideas Computing Center
 
-#用量信息
-* CPU Time(average 7)：```5%```
-* Web I/O(average 7)：```4%```
-* Storage：```40%```
+#基准测试
+* ```1000pi```:平均```0.05s```
+* 
 
 #运行或托管的服务
 * 镜像服务
